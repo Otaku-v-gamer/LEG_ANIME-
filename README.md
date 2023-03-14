@@ -1,4 +1,5 @@
-# LEG_ANIME-
-Canal  oficial SOMOS LEG_ANIME 
+# LEG_ANIME BOT
 
-Bot apoyo sencillo para WhatsApp 
+Canal  oficial SOMOS LEG_ANIME
+ 
+ # —◉ DUDAS SOBRE EL BOT?, CONTACTAME
